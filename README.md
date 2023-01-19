@@ -3,6 +3,9 @@
 ## Init
 git init
 
+## To change master-> main
+git branch --move master main
+
 ## To see the default branch is master or main
 git status
 
